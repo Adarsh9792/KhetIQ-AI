@@ -1,0 +1,86 @@
+====================================================================
+KHETIQ AI - AGRICULTURAL ADVISORY KNOWLEDGE BASE
+====================================================================
+
+1. WHEAT (गेहूं)
+--------------------------------------------------------------------
+- Common Diseases & Symptoms:
+  * Yellow Rust (पीला रतुआ): Yellow stripe-like pustules on leaves. Thrives in cool, moist, foggy weather.
+  * Brown/Black Rust: Brown or reddish-black spots on leaf surface and stem.
+  * Loose Smut (कंडुआ/काली बाली): Black powdery mass replaces normal grain heads at flowering.
+- Common Pests:
+  * Aphids (माहू/चेपा): Small green/black insects sucking sap from young leaves and ears.
+  * Termites (दीमक): Damage roots in sandy light soils, causing plants to dry up.
+- Critical Irrigation Stages:
+  * Crown Root Initiation (CRI) stage (21 days post sowing) - Crucial!
+  * Tillering stage (40-45 days)
+  * Jointing & Flowering stage (60-70 days)
+  * Milk/Grain filling stage (85-90 days)
+- Key Soil & Nutrient Notes:
+  * Balanced NPK (120:60:40 kg/ha). Split application of Nitrogen is essential.
+
+2. RICE / PADDY (धान / चावल)
+--------------------------------------------------------------------
+- Common Diseases & Symptoms:
+  * Bacterial Leaf Blight (जीवाणु झुलसा): Water-soaked lesions along leaf margins turning yellow-brown.
+  * Rice Blast (झोंका/ब्लास्ट): Spindle-shaped spots with gray centers on leaves and neck rot.
+  * Sheath Blight (शीथ ब्लास्ट): Oval greenish-gray lesions on leaf sheaths near water line.
+  * Khaira Disease (खैरा रोग): Rusty brown spots on leaves due to Zinc deficiency.
+- Common Pests:
+  * Stem Borer (तना छेदक): Causes "dead hearts" in tillers or white heads at panicle stage.
+  * Brown Plant Hopper (BPH - भूरा माहू): Causes "hopper burn" (circular drying patches).
+- Management Guidelines:
+  * Apply Zinc Sulphate (25 kg/ha) at field preparation if leaves show brown rusty specks.
+  * Maintain alternate wetting and drying rather than continuous standing water during late stages.
+
+3. MAIZE (मक्का)
+--------------------------------------------------------------------
+- Common Diseases & Symptoms:
+  * Turcicum Leaf Blight: Elliptical, long grayish-green or tan lesions on leaves.
+  * Charcoal Rot: Lower internodes turn soft and straw-colored, stalks break easily.
+- Common Pests:
+  * Fall Armyworm (FAW - फॉल आर्मीवर्म): Larvae feed inside leaf whorls producing papery windows and heavy frass (poop).
+  * Stem Borer: Shot-hole patterns on leaf blades.
+- Management Guidelines:
+  * Inspect whorls at 15-20 days stage. Clean whorl sand/ash application can reduce early caterpillar movement in smallholdings.
+
+4. TOMATO (टमाटर)
+--------------------------------------------------------------------
+- Common Diseases & Symptoms:
+  * Leaf Curl Virus (पत्ती मरोड़ रोग / माथा बांधना): Curling, puckering, stunting of leaves. Transmitted by Whiteflies.
+  * Early Blight (अगेती झुलसा): Concentric ring spots ("target spots") on lower leaves.
+  * Late Blight (पछेती झुलसा): Dark water-soaked lesions under high humidity/cloudy weather.
+  * Blossom End Rot: Black rot at bottom of fruit due to Calcium deficiency & irregular watering.
+- Common Pests:
+  * Whitefly (सफेद मक्खी): Tiny white flies under leaves spreading viral infection.
+  * Fruit Borer (फल छेदक): Holes in fruits with caterpillars inside.
+- Management Guidelines:
+  * Yellow sticky traps for whitefly management. Avoid over-watering to prevent root rots.
+
+5. POTATO (आलू)
+--------------------------------------------------------------------
+- Common Diseases & Symptoms:
+  * Late Blight (पछेती झुलसा): Water-soaked dark spots on leaves with white cottony fungus growth underneath during wet foggy mornings. Devastating if unmanaged.
+  * Early Blight (अगेती झुलसा): Brown spots with concentric rings.
+  * Common Scab: Rough corky lesions on tuber skin.
+- Key Agronomic Practices:
+  * Earthing up (मट्टी चढ़ाना) at 30-35 days to cover developing tubers from sunlight and pests.
+  * Monitor weather forecast: High humidity + temperatures between 10-20°C favor Late Blight.
+
+6. SUGARCANE (गन्ना)
+--------------------------------------------------------------------
+- Common Diseases & Symptoms:
+  * Red Rot (लाल सड़न): Internal stalk tissue turns bright red with white cross bands and sour alcoholic smell. Leaves turn yellow and dry top-down.
+  * Smut (कंडुआ): Long black whip-like structure emerges from central leaf shoot.
+- Common Pests:
+  * Early Shoot Borer & Top Shoot Borer: Dead heart formation in young shoots.
+  * Whitefly / Pyrilla: Sap sucking causing yellowing and soot-like mold.
+- Management Guidelines:
+  * Use healthy disease-free setts for planting. Remove infected smut whips early in plastic bags to avoid spore dispersal.
+
+7. GENERAL AGRICULTURAL SAFETY & EXTENSION PROTOCOLS
+--------------------------------------------------------------------
+- Diagnostic Pre-conditions: Always check crop age, soil type, irrigation schedule, and recent weather (cloudy, rain, heat wave) before giving recommendations.
+- Chemical Safety Rule: Never give precise unverified chemical pesticide doses directly without emphasizing safety gear (gloves, mask) and directing farmers to verify at the local Krishi Vigyan Kendra (KVK) or Block Agriculture Officer (BAO).
+- Integrated Pest Management (IPM): Prioritize organic, mechanical, and biological measures (sticky traps, crop rotation, neem oil spray, healthy seed selection) first.
+- Referrals: For severe pest outbreaks or sudden wilting across fields, strongly advise immediate physical inspection by local KVK scientists.

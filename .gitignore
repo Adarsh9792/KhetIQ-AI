@@ -1,0 +1,33 @@
+# Python environment & cache
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+ENV/
+
+# Environment variables
+.env
+
+# Database
+*.db
+khetiq.db
+
+# File uploads & temp files
+temp_uploads/
+!assets/
+!assets/*.png
+!assets/*.jpg
+!assets/*.jpeg
+
+# IDE & OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Backup & Scratch files
+app_backup*.py
+scratch/
+.env.txt
